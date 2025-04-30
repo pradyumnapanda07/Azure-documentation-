@@ -2,7 +2,6 @@
 Here you will find simplified documents on azure . 
 
 
-Sure! Here’s a simplified overview of Azure, covering basic to slightly advanced concepts that you can include in your repository. You can structure it into sections for clarity.
 
 ---
 
